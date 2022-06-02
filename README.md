@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonyboy61
-- 👀 I’m interested in Web Programation
+- 👀 I’m interested in PHP, Xamarin.Forms, 
 - 🌱 I’m currently learning Xamarin.Forms
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me joaosouto@ipvc.pt
