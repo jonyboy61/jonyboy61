@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonyboy61
-- 👀 I’m interested in PHP, Xamarin.Forms, JavaScript, .NET MAUI...
+- 👀 I’m interested in PHP, HTML, CSS, Xamarin.Forms, JavaScript, .NET MAUI
 - 🌱 I’m currently learning .NET MAUI
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me joaosouto@ipvc.pt
